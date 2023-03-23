@@ -1,0 +1,38 @@
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\bin\Debug\net6.0\Authentication.Infrastructure.deps.json
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\bin\Debug\net6.0\Authentication.Infrastructure.runtimeconfig.json
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\bin\Debug\net6.0\Authentication.Infrastructure.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\bin\Debug\net6.0\Authentication.Infrastructure.pdb
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\bin\Debug\net6.0\EVN.Core.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\bin\Debug\net6.0\EVN.Core.pdb
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.csproj.AssemblyReference.cache
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.Properties.Resources.resources
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.csproj.GenerateResource.cache
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.AssemblyInfoInputs.cache
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.AssemblyInfo.cs
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.csproj.CopyComplete
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\refint\Authentication.Infrastructure.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.pdb
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.genruntimeconfig.cache
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\ref\Authentication.Infrastructure.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\bin\Debug\net6.0\Authentication.Infrastructure.deps.json
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\bin\Debug\net6.0\Authentication.Infrastructure.runtimeconfig.json
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\bin\Debug\net6.0\Authentication.Infrastructure.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\bin\Debug\net6.0\Authentication.Infrastructure.pdb
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\bin\Debug\net6.0\EVN.Core.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\bin\Debug\net6.0\EVN.Core.pdb
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.csproj.AssemblyReference.cache
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.Properties.Resources.resources
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.csproj.GenerateResource.cache
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.AssemblyInfoInputs.cache
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.AssemblyInfo.cs
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.csproj.CoreCompileInputs.cache
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.csproj.CopyComplete
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\refint\Authentication.Infrastructure.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.pdb
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\Authentication.Infrastructure.genruntimeconfig.cache
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Infrastructure\obj\Debug\net6.0\ref\Authentication.Infrastructure.dll

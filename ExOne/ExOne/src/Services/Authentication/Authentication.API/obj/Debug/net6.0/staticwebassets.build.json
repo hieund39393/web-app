@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "7KDxmt6BX1PHwzmSVsHak1ntpYAHqM6JEAEalk2VtV4=",
+  "Source": "Authentication.API",
+  "BasePath": "_content/Authentication.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Authentication.API\\wwwroot",
+      "Source": "Authentication.API",
+      "ContentRoot": "G:\\Sources\\ExOne\\ExOne (1)\\src\\Services\\Authentication\\Authentication.API\\wwwroot\\",
+      "BasePath": "_content/Authentication.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "G:\\Sources\\ExOne\\ExOne (1)\\src\\Services\\Authentication\\Authentication.API\\wwwroot\\Images\\database-sync-icon-vector-38533939.jpg",
+      "SourceId": "Authentication.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Sources\\ExOne\\ExOne (1)\\src\\Services\\Authentication\\Authentication.API\\wwwroot\\",
+      "BasePath": "_content/Authentication.API",
+      "RelativePath": "Images/database-sync-icon-vector-38533939.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\database-sync-icon-vector-38533939.jpg"
+    }
+  ]
+}

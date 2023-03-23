@@ -1,0 +1,34 @@
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\bin\Debug\net6.0\Authentication.Application.deps.json
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\bin\Debug\net6.0\Authentication.Application.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\bin\Debug\net6.0\Authentication.Application.pdb
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\bin\Debug\net6.0\Authentication.Infrastructure.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\bin\Debug\net6.0\EVN.Core.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\bin\Debug\net6.0\EVN.Core.pdb
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\bin\Debug\net6.0\Authentication.Infrastructure.pdb
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.csproj.AssemblyReference.cache
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.AssemblyInfoInputs.cache
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.AssemblyInfo.cs
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.csproj.CoreCompileInputs.cache
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.csproj.CopyComplete
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\refint\Authentication.Application.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.pdb
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\ref\Authentication.Application.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\bin\Debug\net6.0\Authentication.Application.deps.json
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\bin\Debug\net6.0\Authentication.Application.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\bin\Debug\net6.0\Authentication.Application.pdb
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\bin\Debug\net6.0\Authentication.Infrastructure.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\bin\Debug\net6.0\EVN.Core.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\bin\Debug\net6.0\EVN.Core.pdb
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\bin\Debug\net6.0\Authentication.Infrastructure.pdb
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.csproj.AssemblyReference.cache
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.AssemblyInfoInputs.cache
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.AssemblyInfo.cs
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.csproj.CoreCompileInputs.cache
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.csproj.CopyComplete
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\refint\Authentication.Application.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\Authentication.Application.pdb
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.Application\obj\Debug\net6.0\ref\Authentication.Application.dll

@@ -1,0 +1,285 @@
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\wwwroot\Images\database-sync-icon-vector-38533939.jpg
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\appsettings.Development.json
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\appsettings.json
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.API.staticwebassets.runtime.json
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.API.exe
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.API.deps.json
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.API.runtimeconfig.json
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.API.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.API.pdb
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.API.xml
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\AutoMapper.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Azure.Core.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Azure.Identity.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\FluentValidation.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Humanizer.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\MediatR.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NgrokAspNetCore.Lib.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NJsonSchema.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NSwag.Core.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NSwag.Generation.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Polly.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\SendGrid.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Exceptions.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\StarkbankEcdsa.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\YamlDotNet.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.Application.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.Infrastructure.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\EVN.Core.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.Application.pdb
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.Infrastructure.pdb
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\EVN.Core.pdb
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.csproj.AssemblyReference.cache
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.AssemblyInfoInputs.cache
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.AssemblyInfo.cs
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.csproj.CoreCompileInputs.cache
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.MvcApplicationPartsAssemblyInfo.cs
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.MvcApplicationPartsAssemblyInfo.cache
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\scopedcss\bundle\Authentication.API.styles.css
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.csproj.CopyComplete
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\refint\Authentication.API.dll
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.xml
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.pdb
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.genruntimeconfig.cache
+D:\CODE\ExOne\ExOne\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\ref\Authentication.API.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\wwwroot\Images\database-sync-icon-vector-38533939.jpg
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\appsettings.json
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\appsettings.Development.json
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.API.staticwebassets.runtime.json
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.API.exe
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.API.deps.json
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.API.runtimeconfig.json
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.API.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.API.pdb
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.API.xml
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\AutoMapper.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Azure.Core.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Azure.Identity.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\FluentValidation.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Humanizer.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\MediatR.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\MediatR.Contracts.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Namotion.Reflection.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NgrokAspNetCore.Lib.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NJsonSchema.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NSwag.Annotations.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NSwag.AspNetCore.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NSwag.Core.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NSwag.Generation.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Polly.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\SendGrid.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Exceptions.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\StarkbankEcdsa.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Memory.Data.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\YamlDotNet.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.Application.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.Infrastructure.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\EVN.Core.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.Application.pdb
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\Authentication.Infrastructure.pdb
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\bin\Debug\net6.0\EVN.Core.pdb
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.csproj.AssemblyReference.cache
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.GeneratedMSBuildEditorConfig.editorconfig
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.AssemblyInfoInputs.cache
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.AssemblyInfo.cs
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.csproj.CoreCompileInputs.cache
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.MvcApplicationPartsAssemblyInfo.cs
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.MvcApplicationPartsAssemblyInfo.cache
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\staticwebassets\msbuild.Authentication.API.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Authentication.API.props
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.API.props
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Authentication.API.props
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\staticwebassets.build.json
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\staticwebassets.development.json
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\scopedcss\bundle\Authentication.API.styles.css
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.csproj.CopyComplete
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\refint\Authentication.API.dll
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.xml
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.pdb
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\Authentication.API.genruntimeconfig.cache
+G:\Sources\ExOne\ExOne (1)\src\Services\Authentication\Authentication.API\obj\Debug\net6.0\ref\Authentication.API.dll

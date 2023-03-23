@@ -1,0 +1,34 @@
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\bin\Debug\net6.0\EVN.Core.deps.json
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\bin\Debug\net6.0\EVN.Core.runtimeconfig.json
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\bin\Debug\net6.0\EVN.Core.dll
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\bin\Debug\net6.0\EVN.Core.pdb
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.csproj.AssemblyReference.cache
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.Properties.EvnResources.resources
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.Resources.Messages.ErrorMessage.resources
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.csproj.GenerateResource.cache
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.AssemblyInfoInputs.cache
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.AssemblyInfo.cs
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.csproj.CoreCompileInputs.cache
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.dll
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\obj\Debug\net6.0\refint\EVN.Core.dll
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.pdb
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.genruntimeconfig.cache
+D:\CODE\ExOne\ExOne\src\Common\EVN.Core\obj\Debug\net6.0\ref\EVN.Core.dll
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\bin\Debug\net6.0\EVN.Core.deps.json
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\bin\Debug\net6.0\EVN.Core.runtimeconfig.json
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\bin\Debug\net6.0\EVN.Core.dll
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\bin\Debug\net6.0\EVN.Core.pdb
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.csproj.AssemblyReference.cache
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.Properties.EvnResources.resources
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.Resources.Messages.ErrorMessage.resources
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.csproj.GenerateResource.cache
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.AssemblyInfoInputs.cache
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.AssemblyInfo.cs
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.csproj.CoreCompileInputs.cache
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.dll
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\obj\Debug\net6.0\refint\EVN.Core.dll
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.pdb
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\obj\Debug\net6.0\EVN.Core.genruntimeconfig.cache
+G:\Sources\ExOne\ExOne (1)\src\Common\EVN.Core\obj\Debug\net6.0\ref\EVN.Core.dll
